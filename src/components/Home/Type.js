@@ -9,7 +9,7 @@ function Type() {
           "Front End Developer",
           "Web Designer",
           "Graphic Designer",
-          "Content Creator",
+          "QA Manual",
         ],
         autoStart: true,
         loop: true,
